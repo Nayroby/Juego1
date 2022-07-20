@@ -1,1 +1,0 @@
-Pa mover el jugador 1 usa la W y la S y pa el jugador 2 la flechita pa arriba y la flechita pa abajo
